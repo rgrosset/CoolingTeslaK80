@@ -1,4 +1,4 @@
-# CoolingTeslaK80
+# Cooling a Tesla K80 in a Desktop
 
 This github repo is to accompany the YouTube view here. 
 
