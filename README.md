@@ -1,6 +1,6 @@
 # Cooling a Tesla K80 in a Desktop
 
-This github repo is to accompany the YouTube view here. 
+This github repo is to accompany the video here which describes my attempts to cool a used NVidia Tesla K80 card. System has been up and running and stable for weeks now. 
 
 [![Cooling Tesla K80](https://img.youtube.com/vi/I2zYOdfASFE/0.jpg)](https://www.youtube.com/watch?v=I2zYOdfASFE)
 
